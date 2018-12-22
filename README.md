@@ -2,6 +2,4 @@
 
 A soothing yet upbeat theme
 
-![A screenshot of your theme](https://github.com/Jacktwist/chill-glow-syntax/blob/master/cg_screenshot.png)
-
-
+![I dont know why my screenshot isnt working!](https://github.com/Jacktwist/chill-glow-syntax/blob/master/cg_screenshot.png "chill glow syntax theme")
